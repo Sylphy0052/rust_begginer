@@ -41,5 +41,81 @@
   - `cargo build --release`
   - `./target/release/hello_world`
 
+## gitignoreを生成するgibo
+- `gibo dump Rust macOS`
+- `gibo list`
+  ```
+    === Languages ===
+
+  Actionscript		Go			Processing
+  Ada			Godot			PureScript
+  Agda			Gradle			Python
+  Android			Grails			Qooxdoo
+  AppceleratorTitanium	GWT			Qt
+  AppEngine		Haskell			R
+  ArchLinuxPackages	Idris			Rails
+  Autotools		IGORPro			RhodesRhomobile
+  C++			Java			ROS
+  C			Jboss			Ruby
+  CakePHP			Jekyll			Rust
+  CFWheels		Joomla			Sass
+  ChefCookbook		Julia			Scala
+  Clojure			KiCad			Scheme
+  CMake			Kohana			SCons
+  CodeIgniter		Kotlin			Scrivener
+  CommonLisp		LabVIEW			Sdcc
+  Composer		Laravel			SeamGen
+  Concrete5		Leiningen		SketchUp
+  Coq			LemonStand		Smalltalk
+  CraftCMS		Lilypond		Stella
+  CUDA			Lithium			SugarCRM
+  D			Lua			Swift
+  Dart			Magento			Symfony
+  Delphi			Maven			SymphonyCMS
+  DM			Mercury			Terraform
+  Drupal			MetaProgrammingSystem	TeX
+  Eagle			Nanoc			Textpattern
+  Elisp			Nim			TurboGears2
+  Elixir			Node			Typo3
+  Elm			Objective-C		Umbraco
+  EPiServer		OCaml			Unity
+  Erlang			Opa			UnrealEngine
+  ExpressionEngine	OpenCart		VisualStudio
+  ExtJs			OracleForms		VVVV
+  Fancy			Packer			Waf
+  Finale			Perl			WordPress
+  ForceDotCom		Perl6			Xojo
+  Fortran			Phalcon			Yeoman
+  FuelPHP			PlayFramework		Yii
+  Gcov			Plone			ZendFramework
+  GitBook			Prestashop		Zephir
+
+  === Global ===
+
+  Anjuta			JDeveloper		Patch
+  Ansible			JEnv			Redcar
+  Archives		JetBrains		Redis
+  Backup			Kate			SBT
+  Bazaar			KDevelop4		SlickEdit
+  BricxCC			Lazarus			Stata
+  Calabash		LibreOffice		SublimeText
+  Cloud9			Linux			SVN
+  CodeKit			LyX			SynopsysVCS
+  CVS			macOS			Tags
+  DartEditor		Matlab			TextMate
+  Dreamweaver		Mercurial		TortoiseGit
+  Dropbox			MicrosoftOffice		Vagrant
+  Eclipse			ModelSim		Vim
+  EiffelStudio		Momentics		VirtualEnv
+  Emacs			MonoDevelop		VisualStudioCode
+  Ensime			NetBeans		WebMethods
+  Espresso		Ninja			Windows
+  FlexBuilder		NotepadPP		Xcode
+  GPG			Otto			XilinxISE
+  ```
+
 ## Reference
 1. [春休みだしRust入門しようぜ(1): Qiita](https://qiita.com/musaprg/items/97a72bb1ba85932ad161)
+2. [プログラミング言語 Rust 日本語版](https://rust-lang-ja.github.io/the-rust-programming-language-ja/1.6/book/README.html)
+3. [Rustのリンク集: Qiita](https://qiita.com/moshroom/items/7e327dafbe53b72ad99d)
+4. [The Rust Programming Language](https://doc.rust-lang.org/book/second-edition/index.html)
